@@ -1,7 +1,4 @@
-# Pet-Health-Assistant
-Sure! Here's a professional and friendly **README.md** file for your GitHub project **"PetHealthAssistant"**:
 
----
 
 # 🐾 PetHealthAssistant
 
